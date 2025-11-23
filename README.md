@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Order-of-Play
 1. Project Title
 
-Tic-Tac-Toe: Order of Play (Java OOP Version)
+Tic-Tac-Toe: Order of Play 
 
 2. Description / Overview
 
